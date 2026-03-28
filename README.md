@@ -5,7 +5,6 @@
 ![Version](https://img.shields.io/badge/Version-2.0-7C3AED)
 ![Platform](https://img.shields.io/badge/Platform-Android%208%2B-green)
 ![Status](https://img.shields.io/badge/Status-Working-brightgreen)
-![Made with](https://img.shields.io/badge/Made%20with-React%20Native%20%2B%20Expo-blue)
 
 ---
 
